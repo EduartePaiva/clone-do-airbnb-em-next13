@@ -24,7 +24,7 @@ export default function RootLayout({
       <body className={font.className}>
         {/* É para concertar um bug mas parece que já foi resolvido <ClientOnly></ClientOnly> */}
 
-        <Modal />
+        <Modal actionLabel='Submit' isOpen title='Hello World' />
         <Navbar />
         {children}
       </body>
