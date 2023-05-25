@@ -161,8 +161,8 @@ export default function Modal({
                     label={actionLabel}
                     onClick={handleSubmit}
                   />
-
                 </div>
+                {footer}
               </div>
             </div>
           </div>
