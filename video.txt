@@ -2,6 +2,8 @@ parei no tempo: 29:24
 parei no tempo: 1:02:14
 parei no tempo: 1:35
 parei no tempo: 1:48
+parei no tempo: 2:09
+parei no tempo: 3:20
 
 
-link: https://youtu.be/c_-b_isI4vg?t=6510
+link: https://youtu.be/c_-b_isI4vg?t=12003
