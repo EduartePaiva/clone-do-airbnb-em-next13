@@ -5,6 +5,9 @@ parei no tempo: 1:48
 parei no tempo: 2:09
 parei no tempo: 3:20
 parei no tempo: 3:37
+parei no tempo: 3:52
+parei no tempo: 4:32
+parei no tempo: 5:23
 
 
 
