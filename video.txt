@@ -11,6 +11,7 @@ parei no tempo: 5:23
 parei no tempo: 5:39
 parei no tempo: 6:17
 parei no tempo: 7:11
+parei no tempo: 7:53
 
 
 

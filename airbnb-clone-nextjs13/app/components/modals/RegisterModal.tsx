@@ -41,6 +41,7 @@ export default function RegisterModal() {
             .then(() => {
                 registerModal.onClose()
                 toast.success('Registered successfully!!')
+                loginModal.onOpen()
             })
             .catch((error) => {
                 toast.error('Something went Wrong')
