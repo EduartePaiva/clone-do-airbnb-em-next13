@@ -5,12 +5,13 @@ import Container from "./components/Container";
 import EmptyState from "./components/EmptyState";
 import ListingCard from "./components/listings/ListingCard";
 
-interface HomeProps {
+interface pageProps {
   searchParams: IListingsParams
 }
 
-export default async function Home({ searchParams }: HomeProps) {
-  const isEmpty = true
+export const dynamic = 'force-dynamic'
+
+export default async function page({ searchParams }: pageProps) {
   const listings = await getListings(searchParams)
   const currentUser = await getCurrentUser()
 
