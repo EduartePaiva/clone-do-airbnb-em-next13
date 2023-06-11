@@ -40,7 +40,7 @@ export default function ListingCard({
         if (disabled) return
 
         onAction?.(actionId)
-    }, [disabled, actionId, disabled])
+    }, [disabled, actionId, onAction])
 
     const price = useMemo(() => {
         if (reservation) {
